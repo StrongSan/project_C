@@ -42,7 +42,6 @@ int main() {
 	else {
 		cout << "0으로 나눌 수 없습니다 !\n";
 	}
-
 	int age, n;
 
 	cout << "나이 : ";
