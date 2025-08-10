@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\San\\Desktop\\C\u002B\u002B\\",
+  "WorkspaceRootPath": "C:\\Users\\Sani\\Desktop\\project_C\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66AA6ABD-2469-4EE6-8C22-59C2A1C26E92}|C\u002B\u002B\\C\u002B\u002B.vcxproj|C:\\Users\\San\\Desktop\\C\u002B\u002B\\C\u002B\u002B\\C\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66AA6ABD-2469-4EE6-8C22-59C2A1C26E92}|C\u002B\u002B\\C\u002B\u002B.vcxproj|solutionrelative:C\u002B\u002B\\C\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F332D8D7-32B6-4C0B-9E0D-4A47774CAA76}|day2\\day2.vcxproj|C:\\Users\\Sani\\Desktop\\project_C\\day2\\day2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F332D8D7-32B6-4C0B-9E0D-4A47774CAA76}|day2\\day2.vcxproj|solutionrelative:day2\\day2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4042B38-4E45-41F1-9AD0-91D483F9FF05}|day1\\day1.vcxproj|C:\\Users\\Sani\\Desktop\\project_C\\day1\\day1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4042B38-4E45-41F1-9AD0-91D483F9FF05}|day1\\day1.vcxproj|solutionrelative:day1\\day1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "C\u002B\u002B.cpp",
-              "DocumentMoniker": "C:\\Users\\San\\Desktop\\C\u002B\u002B\\C\u002B\u002B\\C\u002B\u002B.cpp",
-              "RelativeDocumentMoniker": "C\u002B\u002B\\C\u002B\u002B.cpp",
-              "ToolTip": "C:\\Users\\San\\Desktop\\C\u002B\u002B\\C\u002B\u002B\\C\u002B\u002B.cpp",
-              "RelativeToolTip": "C\u002B\u002B\\C\u002B\u002B.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "day1.cpp",
+              "DocumentMoniker": "C:\\Users\\Sani\\Desktop\\project_C\\day1\\day1.cpp",
+              "RelativeDocumentMoniker": "day1\\day1.cpp",
+              "ToolTip": "C:\\Users\\Sani\\Desktop\\project_C\\day1\\day1.cpp",
+              "RelativeToolTip": "day1\\day1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-08T04:19:54.347Z",
+              "WhenOpened": "2025-08-09T14:35:09.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "day2.cpp",
+              "DocumentMoniker": "C:\\Users\\Sani\\Desktop\\project_C\\day2\\day2.cpp",
+              "RelativeDocumentMoniker": "day2\\day2.cpp",
+              "ToolTip": "C:\\Users\\Sani\\Desktop\\project_C\\day2\\day2.cpp",
+              "RelativeToolTip": "day2\\day2.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-09T06:54:15.605Z",
               "EditorCaption": ""
             }
           ]
