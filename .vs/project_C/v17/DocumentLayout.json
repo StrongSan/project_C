@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Sani\\Desktop\\project_C\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{888544F8-3F3C-4EEE-958D-2224B0876ED7}|day4\\day4.vcxproj|C:\\Users\\Sani\\Desktop\\project_C\\day4\\day4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{888544F8-3F3C-4EEE-958D-2224B0876ED7}|day4\\day4.vcxproj|solutionrelative:day4\\day4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{98CB3A75-5C4A-4E92-836C-D06B0612DD8F}|day5\\day5.vcxproj|C:\\Users\\Sani\\Desktop\\project_C\\day5\\day5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98CB3A75-5C4A-4E92-836C-D06B0612DD8F}|day5\\day5.vcxproj|solutionrelative:day5\\day5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sani\\Desktop\\project_C\\day4\\day4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:day4\\day4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sani\\Desktop\\project_C\\day3_game2\\day3_game2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "day5.cpp",
+              "DocumentMoniker": "C:\\Users\\Sani\\Desktop\\project_C\\day5\\day5.cpp",
+              "RelativeDocumentMoniker": "day5\\day5.cpp",
+              "ToolTip": "C:\\Users\\Sani\\Desktop\\project_C\\day5\\day5.cpp",
+              "RelativeToolTip": "day5\\day5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-14T11:32:44.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "day4.cpp",
               "DocumentMoniker": "C:\\Users\\Sani\\Desktop\\project_C\\day4\\day4.cpp",
               "RelativeDocumentMoniker": "day4\\day4.cpp",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "day3_game2.cpp",
               "DocumentMoniker": "C:\\Users\\Sani\\Desktop\\project_C\\day3_game2\\day3_game2.cpp",
               "RelativeDocumentMoniker": "day3_game2\\day3_game2.cpp",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "day3_game2\\day3_game2.cpp",
               "ViewState": "AgIAAFEAAAAAAAAAAAAAAGQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-12T12:46:21.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T12:46:21.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "day2_game1.cpp",
               "DocumentMoniker": "C:\\Users\\Sani\\Desktop\\project_C\\day2_game1\\day2_game1.cpp",
               "RelativeDocumentMoniker": "day2_game1\\day2_game1.cpp",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "day2.cpp",
               "DocumentMoniker": "C:\\Users\\Sani\\Desktop\\project_C\\day2\\day2.cpp",
               "RelativeDocumentMoniker": "day2\\day2.cpp",
