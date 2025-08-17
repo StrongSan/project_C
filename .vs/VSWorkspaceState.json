@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\day4"
+    "\\day4",
+    "\\day6"
   ],
-  "SelectedNode": "\\x64",
+  "SelectedNode": "\\day6\\day6.cpp",
   "PreviewInSolutionExplorer": false
 }
